@@ -1,0 +1,23 @@
+1.Syntax Errors:
+Occur when there are mistakes in the code structure, such as missing parentheses, brackets, or semicolons.
+
+2.Reference Errors:
+Occur when trying to reference a variable or function that has not been declared.
+
+3.Type Errors:
+Occur when an operation is performed on an inappropriate data type.
+
+4.Range Errors:
+Occur when trying to manipulate an object with an invalid length or index.
+
+5.Object Errors:
+Occur when working with objects, and an operation cannot be performed on the provided 
+
+6.Callback Errors:
+Occur when asynchronous code encounters an error during execution.
+
+7.Unhandled Promise Rejections:
+Occur when a promise is rejected, and there is no catch handler to handle the rejection.
+
+8.Network Errors:
+Occur when there are issues with network requests, such as cross-origin resource sharing (CORS) violations.
